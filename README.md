@@ -1,1 +1,2 @@
 # HR-Analytics-Power-BI-Project
+This project demonstrates the creation of an interactive dashboard using Microsoft Power BI and CSV data files. The dashboard provides meaningful insights through charts, graphs, KPIs, and filters after cleaning and transforming the data using Power Query and DAX. The project is designed to help users understand data visualization, dashboard development, and business data analysis in Power BI.
